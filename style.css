@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color:cyan;
+  color:green;
+  text-align:center;
+}
+
+p{
+  
+}
+
+canvas {
+  margin:auto;
+  display: block;
+}
